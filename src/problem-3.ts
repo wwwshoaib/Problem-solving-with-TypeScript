@@ -1,5 +1,7 @@
 
 /**
+ * Problem 3 — Social Media Profile Formatter
+
  * Function name must be: formatUserProfile
 Scenario
 A social media application stores basic information about its users. The application needs a function that converts a user's structured data into a human-readable profile summary. A user contains name, age, and city.
